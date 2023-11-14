@@ -8,6 +8,7 @@ namespace ConsoleApp9
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Student!");
+            Console.WriteLine("Have a good day!");
         }
     }
 }
